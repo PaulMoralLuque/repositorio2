@@ -22,7 +22,7 @@ Listas desordenadas
 + Quinto elemento
 + Sexto elemento
 
-Esto es un parrafo biuñasvdiñuvañdiusvaiñ svlaisvlasvluasycbuaydbcuavfiuasd bluasdbvcilavisaidvcvaiu vcbiwubciluasbcilasudbilu abvliufabiñuvbsadi uvivuñawvñisudabvliuabviñwvbvliasdbv cilawbiwbcdilbciwuvbilabvdiawv dscihydauiv vwaj idpuau fipuqud ivq eov qeh foqi qvoeu ieqsd ouqwue cqudv voeqiu oqu oueq he ie yq qoue.
+Esto es un parrafo biuñasvdiñuvañdiusvaiñ svlaisvlasvluasy cbuaydbcuavfiuasd bluasdbvcilavisaidvcvaiu vcbiwubciluasbcilasudbilu abvliufabiñuvbsadi uvivuñawvñisudabvliuabviñwvbvliasdbv cilawbiwbcdilbciwuvbilabvdiawv dscihydauiv vwaj idpuau fipuqud ivq eov qeh foqi qvoeu ieqsd ouqwue cqudv voeqiu oqu oueq he ie yq qoue.
 
 is ie wof eouy voeuwbfri veouqvu yeowa oqeuf rv qeoh vueo oufh uh eq euq oue h uoy ouqer veyq ouqhe iqe u qduhf wuiwq do uyqeu qeo uwyv ouq ql quo aui quy fy bquyvobvufabyuo u vy   usdvcua ov zouo dc vasxdcv oa  u d u7gs c haiaycvksck< vou.
 
@@ -38,3 +38,7 @@ is ie wof eouy voeuwbfri veouqvu yeowa oqeuf rv qeoh vueo oufh uh eq euq oue h u
 [link](https://www.fje.edu/ca/jesuites-bellvitge "Enlace a la web del cole")
 ![imagen](https://github.com/PaulMoralLuque/repositorio2/blob/main/descarga.jpeg "titulo")
 
+|Titulo |Alineación | Precios|
+|----------|:----------:|----------:|
+|Col 2 es|centrada|$500|
+|Col 3 es|Derecha|1500€|
